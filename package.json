@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-myprotein",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Myprotein depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-myprotein",
+    "bon-de-reduction-myprotein",
+    "coupon-myprotein",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/myprotein.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-myprotein.git"
+  }
+}
